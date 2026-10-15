@@ -41,7 +41,7 @@ class Car:
 
 # ----------------------------------------------------------
 
-car1 = Car("Pride", "white", "12A345")
+car1 = Car("BMW", "white", "12A345")
 car1.save()
 
 car1.change_plate("45B678")
